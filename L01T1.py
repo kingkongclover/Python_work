@@ -1,1 +1,0 @@
-print("Ensimmäinen Python-ohjelmani!")

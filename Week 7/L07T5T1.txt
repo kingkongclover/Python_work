@@ -1,0 +1,2 @@
+Auton merkki;Auton hinta
+Fiat;600Volvo;12345
